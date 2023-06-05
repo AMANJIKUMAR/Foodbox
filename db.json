@@ -1,0 +1,142 @@
+{
+  "seller": [
+    {
+      "name": "Aman Food",
+      "password": "adminfood",
+      "email": "admin@food.com",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Bakingo Choco Chip Cream Cup Cake",
+      "price": "₹79",
+      "color": "Chocolate",
+      "category": "Cake",
+      "description": "A classic chocolate cream cup cake overloaded with choco chips",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/0/18416840/022d5675182316b8e398cabc633101bc.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "id": 1
+    },
+    {
+      "name": "Rom's Pizza",
+      "price": "₹279",
+      "color": "Yellow",
+      "category": "Pizza",
+      "description": "Small Farm fresh pizza + Burger +1 Small pepsi 250 ML",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/18606998/741c3afd4aef90babde9e43f99025810.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "id": 2
+    },
+    {
+      "name": "The Burger Co.",
+      "price": "₹350",
+      "color": "Brown",
+      "category": "Burger",
+      "description": "100% Freshly Minced Lamb Patty, Pickles, Caramelized Onions, Sriracha Mayo, Natural Cheese Blend ... read more",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/18617948/b5dd6d291276f2e7775aa04ff9c3d48a_featured_v2.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "id": 3
+    },
+    {
+      "name": "Biryani Badshah",
+      "price": "₹359",
+      "color": "White",
+      "category": "Biryani",
+      "description": "[Serves with Raita] Fragrant long grain Basmati rice steamed with delicately spiced cottage cheese and garnished with an assortment of herbs and spices.",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/18978968/249c75e2b7b709b3b4af7379345d848d_o2_featured_v2.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "id": 4
+    },
+    {
+      "name": "Bakingo Choco Chip Cream Cup Cake",
+      "price": "₹79",
+      "color": "Chocolate",
+      "category": "Cake",
+      "description": "A classic chocolate cream cup cake overloaded with choco chips",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/0/18416840/022d5675182316b8e398cabc633101bc.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "id": 5
+    },
+    {
+      "name": "Rom's Pizza",
+      "price": "₹279",
+      "color": "Yellow",
+      "category": "Pizza",
+      "description": "Small Farm fresh pizza + Burger +1 Small pepsi 250 ML",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/18606998/741c3afd4aef90babde9e43f99025810.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "id": 6
+    },
+    {
+      "name": "The Burger Co.",
+      "price": "₹350",
+      "color": "Brown",
+      "category": "Burger",
+      "description": "100% Freshly Minced Lamb Patty, Pickles, Caramelized Onions, Sriracha Mayo, Natural Cheese Blend ... read more",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/18617948/b5dd6d291276f2e7775aa04ff9c3d48a_featured_v2.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "id": 7
+    },
+    {
+      "name": "Biryani Badshah",
+      "price": "₹359",
+      "color": "White",
+      "category": "Biryani",
+      "description": "[Serves with Raita] Fragrant long grain Basmati rice steamed with delicately spiced cottage cheese and garnished with an assortment of herbs and spices.",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/18978968/249c75e2b7b709b3b4af7379345d848d_o2_featured_v2.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "id": 8
+    },
+    {
+      "name": "Bakingo Choco Chip Cream Cup Cake",
+      "price": "₹79",
+      "color": "Chocolate",
+      "category": "Cake",
+      "description": "A classic chocolate cream cup cake overloaded with choco chips",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/0/18416840/022d5675182316b8e398cabc633101bc.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "id": 9
+    },
+    {
+      "name": "Rom's Pizza",
+      "price": "₹279",
+      "color": "Yellow",
+      "category": "Pizza",
+      "description": "Small Farm fresh pizza + Burger +1 Small pepsi 250 ML",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/18606998/741c3afd4aef90babde9e43f99025810.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "id": 10
+    },
+    {
+      "name": "The Burger Co.",
+      "price": "₹350",
+      "color": "Brown",
+      "category": "Burger",
+      "description": "100% Freshly Minced Lamb Patty, Pickles, Caramelized Onions, Sriracha Mayo, Natural Cheese Blend ... read more",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/18617948/b5dd6d291276f2e7775aa04ff9c3d48a_featured_v2.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "id": 11
+    },
+    {
+      "name": "Biryani Badshah",
+      "price": "₹359",
+      "color": "White",
+      "category": "Biryani",
+      "description": "[Serves with Raita] Fragrant long grain Basmati rice steamed with delicately spiced cottage cheese and garnished with an assortment of herbs and spices.",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/18978968/249c75e2b7b709b3b4af7379345d848d_o2_featured_v2.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "name": "Aman user",
+      "email": "food@user.com",
+      "password": "userfood",
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "name": "Biryani Badshah",
+      "price": "₹359",
+      "color": "White",
+      "category": "Biryani",
+      "description": "[Serves with Raita] Fragrant long grain Basmati rice steamed with delicately spiced cottage cheese and garnished with an assortment of herbs and spices.",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/18978968/249c75e2b7b709b3b4af7379345d848d_o2_featured_v2.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "quantity": 4,
+      "userId": 1,
+      "productId": 4,
+      "id": 1
+    }
+  ]
+}
